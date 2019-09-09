@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/infTerminal/infTerminal.iml" filepath="$PROJECT_DIR$/infTerminal/infTerminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infTerminal1.iml" filepath="$PROJECT_DIR$/infTerminal1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrCode/qrCode.iml" filepath="$PROJECT_DIR$/qrCode/qrCode.iml" />
+    </modules>
+  </component>
+</project>

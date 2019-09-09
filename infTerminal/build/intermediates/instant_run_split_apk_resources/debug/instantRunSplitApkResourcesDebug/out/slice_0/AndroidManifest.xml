@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.itsync.infterminal"
+      android:versionCode="23"
+      android:versionName="v1.01.190522"
+      split="lib_slice_0_apk">
+</manifest>

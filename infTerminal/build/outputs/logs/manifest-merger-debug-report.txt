@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [:qrCode] C:\Users\wucy\Desktop\infTerminal1\qrCode\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\bffbb16a36d346c2cd98b649b7b20ccd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\f95d194f6943aad1aa413c7b503eb42d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\86d2047a6751d184f5c936ff274dcf5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\ededcd022ddb4256c27a7b3d12281ba9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\9ec1f37df63fa890730752610127d6ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\b8e9234d4f8101a803a3d4d73822aa97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\4d696d7af6627c5875e58bffe1c91cf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\0a5e81c21fc566315edbfaee03728e56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\339354e723512af35a882bbf27380e4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\aee7a5e12de73744627c7209ca8331e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\ae53a19b54c6f27a94679cc26063d087\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\2b9dec9727d10f9ace6f02e45a35ae59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\c2b72857bc86016dc8f5c0c85f1b428c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\004b9df870b83b561b1da712f95bed56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\94f2ba8f3b9d3390cd17939997b19836\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\f10308a124c52632c5a09cc8073b645d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\1c8d6f5e187b3661ff54bcbb07264272\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\70a46e3765905b8f66f5cb64fd9d5ac2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\117bbabc6c0e0abe1c1a2ea3972b239e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\06298e31584e9c0c0ca236858bfa5235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\3d5777d33dcdfa46c1a4f3c48a1a47ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\1bf04cd8a361afd14b07f312433a28f2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\132304bbf1474c677c73f5050c661f97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\d2af4588bc56d16584723075c78a526a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\697d46069bb015321a9813f1a6befc07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\85bd93da87dc1d321c2b929ece11f891\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:5:5-39
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.READ_FRAME_BUFFER
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:17:22-73
+application
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:19:5-54:19
+MERGED from [:qrCode] C:\Users\wucy\Desktop\infTerminal1\qrCode\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [:qrCode] C:\Users\wucy\Desktop\infTerminal1\qrCode\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\94f2ba8f3b9d3390cd17939997b19836\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\94f2ba8f3b9d3390cd17939997b19836\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\f10308a124c52632c5a09cc8073b645d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\f10308a124c52632c5a09cc8073b645d\AndroidManifest.xml:22:5-23:19
+	android:sharedUserId
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:26:9-50
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\94f2ba8f3b9d3390cd17939997b19836\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:24:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:22:9-43
+	android:allowTaskReparenting
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:27:41-76
+	android:largeHeap
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:25:9-33
+	android:icon
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:23:9-45
+	android:allowBackup
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:20:9-61
+activity#com.itsync.infterminal.MainActivity
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:28:9-42:20
+	android:label
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:30:13-45
+	android:launchMode
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:32:13-48
+	android:configChanges
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:31:13-186
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:33:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:40:27-74
+receiver#com.itsync.infterminal.BootBroadcastReceiver
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:44:9-53:20
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:44:19-56
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.HOME
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:46:25-76
+category#android.intent.category.HOME
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:48:17-73
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:48:27-70
+intent-filter#action:name:itsync.intent.action.reload
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:50:13-52:29
+action#itsync.intent.action.reload
+ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:51:17-70
+	android:name
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml:51:25-67
+uses-sdk
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+MERGED from [:qrCode] C:\Users\wucy\Desktop\infTerminal1\qrCode\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:qrCode] C:\Users\wucy\Desktop\infTerminal1\qrCode\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\bffbb16a36d346c2cd98b649b7b20ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\bffbb16a36d346c2cd98b649b7b20ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\f95d194f6943aad1aa413c7b503eb42d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\f95d194f6943aad1aa413c7b503eb42d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\86d2047a6751d184f5c936ff274dcf5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\86d2047a6751d184f5c936ff274dcf5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\ededcd022ddb4256c27a7b3d12281ba9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\ededcd022ddb4256c27a7b3d12281ba9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\9ec1f37df63fa890730752610127d6ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\9ec1f37df63fa890730752610127d6ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\b8e9234d4f8101a803a3d4d73822aa97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\b8e9234d4f8101a803a3d4d73822aa97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\4d696d7af6627c5875e58bffe1c91cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\4d696d7af6627c5875e58bffe1c91cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\0a5e81c21fc566315edbfaee03728e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\0a5e81c21fc566315edbfaee03728e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\339354e723512af35a882bbf27380e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\339354e723512af35a882bbf27380e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\aee7a5e12de73744627c7209ca8331e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\aee7a5e12de73744627c7209ca8331e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\ae53a19b54c6f27a94679cc26063d087\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\ae53a19b54c6f27a94679cc26063d087\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\2b9dec9727d10f9ace6f02e45a35ae59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\2b9dec9727d10f9ace6f02e45a35ae59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\c2b72857bc86016dc8f5c0c85f1b428c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\c2b72857bc86016dc8f5c0c85f1b428c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\004b9df870b83b561b1da712f95bed56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\004b9df870b83b561b1da712f95bed56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\94f2ba8f3b9d3390cd17939997b19836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\94f2ba8f3b9d3390cd17939997b19836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\f10308a124c52632c5a09cc8073b645d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\f10308a124c52632c5a09cc8073b645d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\1c8d6f5e187b3661ff54bcbb07264272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\1c8d6f5e187b3661ff54bcbb07264272\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\70a46e3765905b8f66f5cb64fd9d5ac2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\70a46e3765905b8f66f5cb64fd9d5ac2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\117bbabc6c0e0abe1c1a2ea3972b239e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\117bbabc6c0e0abe1c1a2ea3972b239e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\06298e31584e9c0c0ca236858bfa5235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\06298e31584e9c0c0ca236858bfa5235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\3d5777d33dcdfa46c1a4f3c48a1a47ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\3d5777d33dcdfa46c1a4f3c48a1a47ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\1bf04cd8a361afd14b07f312433a28f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\1bf04cd8a361afd14b07f312433a28f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\132304bbf1474c677c73f5050c661f97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\132304bbf1474c677c73f5050c661f97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\d2af4588bc56d16584723075c78a526a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\d2af4588bc56d16584723075c78a526a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\697d46069bb015321a9813f1a6befc07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\697d46069bb015321a9813f1a6befc07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\85bd93da87dc1d321c2b929ece11f891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wucy\.gradle\caches\transforms-2\files-2.1\85bd93da87dc1d321c2b929ece11f891\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wucy\Desktop\infTerminal1\infTerminal\src\main\AndroidManifest.xml

@@ -1,0 +1,2 @@
+include ':qrCode'
+include ':infTerminal'
